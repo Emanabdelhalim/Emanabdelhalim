@@ -1,4 +1,4 @@
-# Hi there, I'm Iman Abdel Halim 👋
+# Hi there, I'm Eman Abdel Halim 👋
 
 🎓 **Data Analyst | Customer Service Expert | Digital Egypt Pioneers Initiative Participant**
 
