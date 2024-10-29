@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate data analyst with a strong found
 - 🎓 **Education:** Bachelor's in Commerce, Assiut University
 - 💼 **Experience:** 2+ years in Customer Service, with recent experience in Data Analysis projects
 - 🌱 **Currently Learning:** Python, SQL, Power BI, Tableau, and advanced analytics techniques
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/iman-abdel-halim)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/eman-abdelhalim-436aa91ba)
 
 ---
 
